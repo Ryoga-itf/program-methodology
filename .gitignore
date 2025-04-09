@@ -5,6 +5,7 @@
 # 私の個人情報が含まれているので
 report*.txt
 !report*.raw.txt
+*.pdf
 
 *.out
 
